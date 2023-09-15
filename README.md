@@ -1,7 +1,9 @@
 # Aplicativo: Super-Herois.
 
 Dupla: Carolina de Oliveira Alves e João Vitor Sátiro Pardin
+
 (O aplicativo está na ramificação Master)
+
 Descrição do Aplicativo:
 
   O Aplicativo SUPER-HEROIS estará tratando sobre os Super-Heróis das empresas Marvel e DC comics, como as suas ações positivas influeciam em consequencias que afetam o meio ambiente, criando uma conexão entre herois e a sustentabilidade.
